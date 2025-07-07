@@ -54,7 +54,6 @@ It evaluates the risk profile of equity portfolios (e.g., AAPL, MSFT, TSLA) with
 
 **Reza Ghasemi**  
 Quantitative Analyst | Risk Modeler | Python Developer  
-[LinkedIn or Website (optional)]
 
 ---
 
@@ -62,5 +61,5 @@ Quantitative Analyst | Risk Modeler | Python Developer
 
 This project is for educational and research purposes. Always validate models before using them in production trading systems.
 
-"""
+
 
