@@ -1,7 +1,5 @@
 # Quantitative-Risk-Lab
-# Re-run code to regenerate the README file after reset
 
-readme_content = """
 # 📊 Market Risk Analysis and Management using VaR, CVaR & Monte Carlo Simulation
 
 ## 🔍 Overview
@@ -66,9 +64,3 @@ This project is for educational and research purposes. Always validate models be
 
 """
 
-# Save the README content to a file
-readme_path = "/mnt/data/README.md"
-with open(readme_path, "w") as f:
-    f.write(readme_content)
-
-readme_path
